@@ -77,13 +77,13 @@ Authorization: Bearer <token>
 
 ## 🧪 Run Project
 
-### Without Docker
+### ▶️ Without Docker
 
 ```
 mvn spring-boot:run
 ```
 
-### With Docker
+### 🐳 With Docker
 
 ```
 mvn clean package
@@ -94,9 +94,7 @@ docker-compose up
 
 ## 📊 Swagger UI
 
-```
-http://localhost:8080/swagger-ui.html
-```
+👉 http://localhost:8080/swagger-ui.html
 
 ---
 
@@ -119,6 +117,8 @@ http://localhost:8080/swagger-ui.html
 
 ## 👨‍💻 Author
 
-Your Name
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-GitHub: https://github.com/YOUR_USERNAME
+**Ram Paraselli**
+🔗 [LinkedIn](https://linkedin.com/in/ram-paraselli)
+🔗 [GitHub](https://github.com/Paraselli)
+
+---
