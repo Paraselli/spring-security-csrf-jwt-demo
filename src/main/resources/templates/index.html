@@ -1,0 +1,15 @@
+
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<body>
+<h2>Secure Transfer</h2>
+
+<form th:action="@{/transfer}" method="post">
+  <input name="amount"/>
+  <input type="hidden" th:name="${_csrf.parameterName}" th:value="${_csrf.token}"/>
+  <button>Send</button>
+</form>
+
+<a href="/attack">Try Attack</a>
+</body>
+</html>

