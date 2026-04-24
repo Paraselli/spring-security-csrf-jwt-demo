@@ -122,3 +122,6 @@ docker-compose up
 🔗 [GitHub](https://github.com/Paraselli)
 
 ---
+
+## ⭐ If you like this project, give it a star!
+
