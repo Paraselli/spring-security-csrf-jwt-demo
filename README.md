@@ -100,7 +100,7 @@ http://localhost:8080/swagger-ui.html
 
 ---
 
-## 🎯 Interview Talking Points
+## 🎯 Key Points
 
 * CSRF vs JWT
 * Stateful vs Stateless authentication
